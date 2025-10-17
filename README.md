@@ -1,4 +1,4 @@
-# Amir-Rahim-Aptitude-Test
+# Amir-Rahim-eGain-Assignment
 Hello eGain Hiring, I have completed the assignment! Please see below.
 # Phone Plan Chatbot
 
