@@ -6,8 +6,8 @@ Hello eGain Hiring, I have completed the assignment! Please see below.
 This is a simple chatbot that helps users choose the best phone plan based on their preferences. 
 
 ## Setup Instructions
-1. Download this repository. (Make sure the 3 files are in the same folder index.html, style.jss, script.js)
-2. Open `index.html` in a web browser.  
+1. Download this repository by opening the "AmirAptitudeTest: file then downloading the three files in there (index.html, style.jss, script.js) and put them in the same folder on your computer. 
+2. Open `index.html` in a web browser. (You can double click the folder and it will auto open in chrome)
 3. Type your answers in the input box and click **Send** or press **Enter**.  
 4. Follow the conversation to get a phone plan recommendation.  
 
