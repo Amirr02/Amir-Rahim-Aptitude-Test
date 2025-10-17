@@ -7,9 +7,11 @@ This is a simple chatbot that helps users choose the best phone plan based on th
 
 ## Setup Instructions
 1. Download this repository by opening the "AmirAptitudeTest: file then downloading the three files in there (index.html, style.jss, script.js) and put them in the same folder on your computer. 
-2. Open `index.html` in a web browser. (You can double click the folder and it will auto open in chrome)
+2. Open `index.html` in a web browser. (You can double click the folder and it will auto open in chrome).
 3. Type your answers in the input box and click **Send** or press **Enter**.  
-4. Follow the conversation to get a phone plan recommendation.  
+4. Follow the conversation to get a phone plan recommendation.
+5. To access the flow chart, download the "Flow Chart.pdf" file.
+6. To access the presentation, download the "Amir eGain Presentaion.pdf" file.
 
 ---
 
@@ -29,4 +31,7 @@ This is a simple chatbot that helps users choose the best phone plan based on th
 <img width="449" height="400" alt="image" src="https://github.com/user-attachments/assets/888782f0-3ab6-4c73-8e05-d01bc0b96074" />
 
 <img width="453" height="394" alt="image" src="https://github.com/user-attachments/assets/cf4b12ae-444c-49b2-9242-9edc1d519312" />
+
+<img width="440" height="392" alt="image" src="https://github.com/user-attachments/assets/42faf37d-0f40-4220-a9af-e82f0362641e" />
+
 
