@@ -26,3 +26,7 @@ This is a simple chatbot that helps users choose the best phone plan based on th
 
 <img width="443" height="396" alt="image" src="https://github.com/user-attachments/assets/916c4798-68bb-4021-8e3e-d72f5a721fba" />
 
+<img width="449" height="400" alt="image" src="https://github.com/user-attachments/assets/888782f0-3ab6-4c73-8e05-d01bc0b96074" />
+
+<img width="453" height="394" alt="image" src="https://github.com/user-attachments/assets/cf4b12ae-444c-49b2-9242-9edc1d519312" />
+
