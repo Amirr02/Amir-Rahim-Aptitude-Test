@@ -5,38 +5,24 @@ Hello eGain Hiring, I have completed the assignment! Please see below.
 ## Overview
 This is a simple chatbot that helps users choose the best phone plan based on their preferences. 
 
-## How to Use
-1. Clone or download this repository.  
+## Setup Instructions
+1. Download this repository. (Make sure the 3 files are in the same folder index.html, style.jss, script.js)
 2. Open `index.html` in a web browser.  
 3. Type your answers in the input box and click **Send** or press **Enter**.  
 4. Follow the conversation to get a phone plan recommendation.  
 
 ---
 
-## Features
-- Interactive 3-step chatbot  
-- 12 possible plan recommendations based on user choices  
-- Error handling for invalid or unexpected inputs  
-- Basic, user-friendly interface using HTML, CSS, and JavaScript  
-**Conversation Flow:**
-1. Plan Type: Family or Individual  
-2. Account Type: Postpaid or Prepaid  
-3. Data Usage: High, Medium, or Low  
----
+## Explanation
 
-## How to Use
-1. Clone or download this repository.  
-2. Open `index.html` in a web browser.  
-3. Type your answers in the input box and click **Send** or press **Enter**.  
-4. Follow the conversation to get a phone plan recommendation.  
----
-
-## How to Use
-1. Clone or download this repository.  
-2. Open `index.html` in a web browser.  
-3. Type your answers in the input box and click **Send** or press **Enter**.  
-4. Follow the conversation to get a phone plan recommendation.  
+- This chat bot will help you figure out what phone plan you want. 
+- It will ask three questions, 1) Family/Individual Account 2) Postpaid/Prepaid 3)High/Med/Low Data Usage. These 3 questions will chose one of the 12 possible plan recommendations based on user choices. 
+- If the user types something wrong or leaves it blank, there will be a error message and will promt you to type the correct choice.
+- Basic, user-friendly interface using HTML (For the interface) , CSS (Styling the interface), and JavaScript (For the chat logic and choosing) 
 
 ---
 
-## Example Conversation
+## Screenshots of the Chatbot in action
+
+<img width="443" height="396" alt="image" src="https://github.com/user-attachments/assets/916c4798-68bb-4021-8e3e-d72f5a721fba" />
+
